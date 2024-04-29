@@ -1,7 +1,7 @@
 # Voting App
 
 ## Description
-Marvel characters are listed on the first page. You can enter the detail page of the characters and get more information about them.
+VotingApp is a mobile application that allows users to vote on different topics and see the results. Users can view different voting topics, vote and review the results.
 
 ## Images
 

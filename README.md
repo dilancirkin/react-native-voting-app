@@ -3,8 +3,6 @@
 ## Description
 VotingApp is a mobile application that allows users to vote on different topics and see the results. Users can view different voting topics, vote and review the results.
 
-## Images
-
 
 ## Getting Started
 1.To get this project files locally on your machine, you can clone this repository by running the following command on your terminal or command line:

@@ -9,7 +9,7 @@ Marvel characters are listed on the first page. You can enter the detail page of
 ## Getting Started
 1.To get this project files locally on your machine, you can clone this repository by running the following command on your terminal or command line:
 ```bash
-git clone https://github.com/dilancirkin/react-native-voting-app
+git clone https://github.com/dilancirkin/react-native-voting-app.git
 ```
 
 2.Install all the dependency packages found in the package.json file by running yarn install or npm install from the project root directory.

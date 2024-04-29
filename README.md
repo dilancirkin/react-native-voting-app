@@ -18,8 +18,6 @@ git clone https://github.com/dilancirkin/react-native-voting-app.git
 
 ```bash
 npx expo start
-# or
-yarn dev
 
 ```
 
